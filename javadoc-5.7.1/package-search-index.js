@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.credenceid"},{"l":"com.credenceid.biometrics"},{"l":"com.credenceid.constants"},{"l":"com.credenceid.database"},{"l":"com.credenceid.face"},{"l":"com.credenceid.icao"},{"l":"com.util"}]
